@@ -8,8 +8,6 @@ The Library Book Entry Project is a simple web application that allows users to 
 
 - **Book Details:** Users can enter the book's title, author, and the number of pages in the provided form.
 
-- **Data Storage:** The entered book details are stored in an array within the JavaScript code.
-
 ## Purpose
 
 The primary purpose of this project is to serve as an educational example for those learning web development. It showcases the fundamental concepts of handling user input, managing data, and creating a basic interactive web interface.
